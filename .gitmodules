@@ -1,0 +1,81 @@
+[submodule "KaHyPar/KaHyPar_1/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_1/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_1/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_1/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_1/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_1/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
+[submodule "KaHyPar/KaHyPar_2/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_2/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_2/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_2/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_2/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_2/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
+[submodule "KaHyPar/KaHyPar_3/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_3/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_3/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_3/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_3/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_3/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
+[submodule "KaHyPar/KaHyPar_4/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_4/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_4/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_4/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_4/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_4/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
+[submodule "KaHyPar/KaHyPar_5/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_5/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_5/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_5/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_5/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_5/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
+[submodule "KaHyPar/KaHyPar_6/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_6/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_6/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_6/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_6/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_6/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
+[submodule "KaHyPar/KaHyPar_7/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_7/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_7/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_7/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_7/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_7/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
+[submodule "KaHyPar/KaHyPar_8/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_8/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_8/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_8/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_8/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_8/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
+[submodule "KaHyPar/KaHyPar_9/kahypar/external_tools/googletest"]
+	path = KaHyPar/KaHyPar_9/kahypar/external_tools/googletest
+	url = https://github.com/google/googletest.git
+[submodule "KaHyPar/KaHyPar_9/kahypar/external_tools/WHFC"]
+	path = KaHyPar/KaHyPar_9/kahypar/external_tools/WHFC
+	url = https://github.com/larsgottesbueren/WHFC.git
+[submodule "KaHyPar/KaHyPar_9/kahypar/external_tools/kahypar-shared-resources"]
+	path = KaHyPar/KaHyPar_9/kahypar/external_tools/kahypar-shared-resources
+	url = https://github.com/kahypar/kahypar-shared-resources.git
