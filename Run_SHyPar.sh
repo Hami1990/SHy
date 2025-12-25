@@ -138,7 +138,7 @@ fi
 echo "  -> Best Result Details:"
 echo "     - Minimum Cut: $min_cut"
 echo "     - KaHyPar Dir: $best_kahypar_dir"
-echo "     - Index File:  $(basename "$best_idx__path")"
+echo "     - Index File:  $(basename "$best_idx_file_path")"
 final_command_args="$best_kahypar_args -w1"
 final_output_filename="${HGR_FILENAME}.part${K_PARTITIONS}.l${L_PARAM}.e${EPSILON_IMBALANCE}.partition"
 echo "  -> Executing final command..."
